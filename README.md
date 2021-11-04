@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @exinco (Edwin U- 45 years old, Married)
+- 👋 Hi, I’m @exinco (Edwin U- 48 years old, Married)
 - 👀 I’m interested in IT field
 - 🌱 I’m previously learning HTML, Dreamweaver, CSS, Frontpage, C++, SQL, Access, ASP, PHP and more 
 - 💞️ I’m looking to collaborate on webpage deployment and maintaining.
